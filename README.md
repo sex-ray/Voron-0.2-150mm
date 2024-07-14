@@ -13,4 +13,4 @@ Voron 0.2 3D打印机的150mm修改版，原版是XYZ轴的尺寸均为120mm，�
 
 提供了修改后的模型文件、型材参数、及材料清单的，
 其中也包含了基于必趣SKR PICO的配置文件作为参考。
-![image](https://github.com/sex-ray/Voron-0.2-150mm/blob/main/printer.JPG)
+![image](https://github.com/sex-ray/Voron-0.2-150mm/blob/main/photo.JPG)
